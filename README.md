@@ -2,7 +2,7 @@
 
 ### A budding software developer and machine learning engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer-135&label=Profile views&color=0e75b6&style=flat" alt="lucifer-135" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer-135&label=Profile views&color=0e75b6&style=flat" alt="lucifer-135" /> </p> -->
 
 - 🌱 I'm currently learning **Artificial Intelligence / Machine Learning**
 
