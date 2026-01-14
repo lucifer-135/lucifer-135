@@ -2,7 +2,7 @@
 
 ### A budding software developer and machine learning engineer
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer-135&label=Profile views&color=0e75b6&style=flat" alt="lucifer-135" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer-135&label=Profile views&color=0e75b6&style=flat" alt="lucifer-135" /> </p>
 
 - 🌱 I'm currently learning **Artificial Intelligence / Machine Learning**
 
@@ -22,7 +22,8 @@
 <p align="left">
 <a href="https://github.com/lucifer-135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lucifer-135" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivansh-gautam-5387121ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh-gautam-5387121ab" height="30" width="40" /></a>
-<a href="https://codechef.com/users/cool_voice_36" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CodeChef_Logo.svg/500px-CodeChef_Logo.svg.png?20240926061818" alt="shivanshgautam135" height="30" width="40" /></a>
+<a href="https://codechef.com/users/cool_voice_36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="cool_voice_36" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shivanshgautam135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivanshgautam135" height="30" width="40" /></a>
 <a href="https://leetcode.com/CTNaV6ivnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="CTNaV6ivnj" height="30" width="40" /></a>
 </p>
 
