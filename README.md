@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I can finish any project before the deadline.**
 
-- 📄 Know about my experiences **[https://drive.google.com/your-resume](https://drive.google.com/your-resume)**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/drive/folders/13_IL6Tmwa_AKZvj7A4pEZf5g_Z9HrGaM?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
